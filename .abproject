@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Game1",
+  "ProjectGuid": "0f040aff-ec28-4d5b-94de-643199f3a05e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Game1",
+  "DisplayName": "Game1",
+  "Author": "",
+  "Description": "Game1",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{58928d0e-8e62-498a-a0f6-5765f1c22b80}",
+  "WP8ProductID": "{4412a232-1d07-422d-a5fb-248bfbbd6216}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Game1",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
